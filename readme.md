@@ -194,6 +194,14 @@ Run `brew install --cask cavoco/tap/preview3mf` or [download manually](https://g
 
 [![](screenshots/Preview3MF.png)](https://github.com/cavoco/Preview3MF)
 
+### [Gander](https://ganderfinder.com) 💰
+
+> Preview Markdown with Mermaid diagrams, JSON, SQLite databases (read-only), .env files with values hidden, YAML, TOML, Terraform, SQL, XML, property lists, ZIP archives, and source code.
+
+Purchase on the [App Store](https://apps.apple.com/app/id6817038818).
+
+[![](screenshots/Gander.png)](https://ganderfinder.com)
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
